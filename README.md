@@ -1,4 +1,4 @@
-# VORON2.4-MOD
+# VORON2.4-LM_ShaftMOD
 voron2.4z轴光轴代替线轨套件
 使用8mm光轴代替线轨  
 使用LM8UU轴承（17mm长）配合打印件代替MGNH滑块，孔位完全兼容  
